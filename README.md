@@ -1,3 +1,3 @@
 # Tetris
 Simple Tetris game
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/josecdeveloper/Tetris/blob/master/assets/tetris.PNG)
